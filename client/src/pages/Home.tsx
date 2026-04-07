@@ -94,7 +94,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-purple-500/20 pt-8 text-center text-gray-400 text-sm">
-            <p>&copy; 2026 Recruiting. All rights reserved.</p>
+            <p>&copy; 2026 Recruiting. All rights reserved. | Powered by Manus</p>
           </div>
         </div>
       </footer>
